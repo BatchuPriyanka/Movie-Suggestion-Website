@@ -30,6 +30,7 @@ a{
 <body style="background-color: powderblue;">
     <center>
 <h1 align="center">Movie suggestions </h1>
+ <?php           ?>
 <br><br><br><br><br><br>
 <h2> Welcome to Movie Suggestion Website</h2>
 <br><br>
